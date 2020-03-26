@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 <p align="center">
@@ -325,3 +326,7 @@ Thank you to all the people who already contributed to Vue!
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+=======
+# vue
+Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web
+>>>>>>> 1cf359c5d449a773f5f5a2a1073c4e64d60648b6
